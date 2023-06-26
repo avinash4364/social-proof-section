@@ -23,6 +23,8 @@ Users should be able to:
 - View the optimal layout for the section depending on their device's screen size
 
 ### Screenshot
+![127 0 0 1_5500_ (2)](https://github.com/avinash4364/social-proof-section/assets/24203618/285d8a5e-d356-45bb-baea-787a27ce62b6)
+![127 0 0 1_5500_ (1)](https://github.com/avinash4364/social-proof-section/assets/24203618/bb4bf70f-07d0-4fe8-8703-1b9458713980)
 
 ### Links
 
